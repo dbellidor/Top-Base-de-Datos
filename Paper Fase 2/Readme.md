@@ -2,4 +2,4 @@
 ###### Rómulo Condori Bustincio
 ###### Diego Bellido Ramos
 
-jupyter nbconvert --to html .Recomenderipynb
+jupyter nbconvert --to html Recomender.ipynb
