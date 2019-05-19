@@ -2,4 +2,5 @@
 ###### Rómulo Condori Bustincio
 ###### Diego Bellido Ramos
 
-jupyter nbconvert --to html Recomender.ipynb
+
+https://github.com/dbellidor/Top-Base-de-Datos/blob/master/Paper%20Fase%202/Recomender.ipynb
