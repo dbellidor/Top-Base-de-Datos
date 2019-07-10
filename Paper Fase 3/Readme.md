@@ -2,3 +2,10 @@
 ###### Diego Bellido Ramos
 ###### Rómulo Condori Bustincio
 
+### Algoritmos de clustering en la comparación( Kmeans,Jerárquico,SOM y SOM Modificado)
+## Kmeans
+![alt text](https://github.com/dbellidor/Top-Base-de-Datos/blob/master/Paper%20Fase%203/f_kmeans.png)
+
+
+
+
