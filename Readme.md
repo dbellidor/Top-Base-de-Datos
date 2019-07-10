@@ -1,3 +1,3 @@
 * Repositorio para el curso de tópicos en base de datos
-* author:
+* Autor:
 Diego Bellido Ramos
